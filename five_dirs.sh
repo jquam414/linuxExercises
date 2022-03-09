@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Remove existing five directory and all files within
-rm -r five
+rm -rf five
+
 
 # Make directory five 
 mkdir five
